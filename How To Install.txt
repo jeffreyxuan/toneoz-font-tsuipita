@@ -1,0 +1,27 @@
+ToneOZ Tsuipita 曉聲通秋茄,免費開源的手寫字型,教育標準字形
+A Chinese handwriting-style font that supports the Standard Form of National Characters
+
+Editor and the Chinese dictionary
+===========================
+https://toneoz.com/imez
+
+
+How To Install
+===========================
+1. Download the zip files from 
+   https://toneoz.com/blog/download-fonts/
+
+   There are 3 versions:
+   	- Chinese character only
+ 	- Chinese character with Zhuyin 
+ 	- Chinese character with Pinyin
+
+2. Click on the zip file to open
+
+3. Click the *.ttf file inside the zip to open
+
+4. Click Install(安裝), then you can use it in your Office Software Editor
+
+5. The Zhuyin/Pinyin versions can support auto sandhi rules and pronunciations symbol.
+   Free online tool is here:
+   https://toneoz.com/imez
