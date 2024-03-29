@@ -8,6 +8,6 @@ https://toneoz.com/blog/download-fonts/#tsuipita
 # Introduction
 https://toneoz.com/blog/tsuipita/
 
-# derived from 
+# Derived from 
 The SIL Open Font "Peak" by cjkFont
 https://cjkfonts.io/blog/ThePeakFont
