@@ -11,3 +11,9 @@ https://toneoz.com/blog/tsuipita/
 # Derived from 
 The SIL Open Font "Peak" by cjkFont
 https://cjkfonts.io/blog/ThePeakFont
+
+- In order to comply with the Taiwan educational standard, we have modify the strokes of all characters from the original Hongkong style to the Taiwan Standard Form of National Characters.
+  
+- In order to display all the characters in the "Ministry of Education Mandarin Chinese Dictionary", we have extend the indeographs from the original 5,943 characters to 14,123 characters
+
+- Support all characters in GB/T 2312
