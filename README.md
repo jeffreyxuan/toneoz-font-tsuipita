@@ -9,5 +9,5 @@ https://toneoz.com/blog/download-fonts/#tsuipita
 https://toneoz.com/blog/tsuipita/
 
 # derived from 
-The open source font "Peak" by cjkFont
+The SIL Open Font "Peak" by cjkFont
 https://cjkfonts.io/blog/ThePeakFont
