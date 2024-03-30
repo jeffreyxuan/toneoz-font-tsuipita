@@ -1,4 +1,5 @@
 Copyright 2024 https://toneoz.com ToneOZ Tsuipita Project Authors (https://github.com/jeffreyxuan/toneoz-font-tsuipita.git)
+Derived from the SIL Open Font License font "Peak" by https://cjkfonts.io/blog/ThePeakFont
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
