@@ -11,10 +11,12 @@ How To Install
 1. Download the zip files from 
    https://toneoz.com/blog/download-fonts/
 
-   There are 3 versions:
+   There are 4 versions:
    	- Chinese character only
  	- Chinese character with Zhuyin 
  	- Chinese character with Pinyin
+ 	- Chinese character with both Zhuyin and Pinyin
+
 
 2. Click on the zip file to open
 

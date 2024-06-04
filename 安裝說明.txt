@@ -10,10 +10,12 @@ https://toneoz.com/imez
 1. 下載網址
    https://toneoz.com/blog/download-fonts/
 
-   有三種版本可選擇
+   有四種版本可選擇
 	- 僅漢字
 	- 注音版
 	- 拼音版
+	- 注音拼音雙拼版
+
 
 2. 檔案為zip，直接打開後再點擊其中的.ttf檔便可安裝。
 
